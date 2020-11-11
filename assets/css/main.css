@@ -29,6 +29,10 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+*::selection{
+	background-color:rgb(236, 236, 149);
+}
+
 body {
 	line-height: 1;
 }
